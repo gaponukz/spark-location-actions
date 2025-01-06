@@ -1,0 +1,10 @@
+{"id": 0, "name": "Victor", "sex": "boy", "age": 24, "email": "victor@example.com", "city": "Dnipro", "country": "Ukraine"}
+{"id": 1, "name": "Anna", "sex": "girl", "age": 25, "email": "anna@example.com", "city": "Kyiv", "country": "Ukraine"}
+{"id": 2, "name": "John", "sex": "boy", "age": 28, "email": "john@example.com", "city": "Lviv", "country": "Ukraine"}  
+{"id": 3, "name": "Olga", "sex": "girl", "age": 32, "email": "olga@example.com", "city": "Odessa", "country": "Ukraine"}  
+{"id": 4, "name": "Mikhail", "sex": "boy", "age": 22, "email": "mikhail@example.com", "city": "Kharkiv", "country": "Ukraine"}  
+{"id": 5, "name": "Viktoria", "sex": "girl", "age": 30, "email": "viktoria@example.com", "city": "Dnipro", "country": "Ukraine"}  
+{"id": 6, "name": "Igor", "sex": "boy", "age": 26, "email": "igor@example.com", "city": "Kyiv", "country": "Ukraine"}
+{"id": 7, "name": "Natalia", "sex": "girl", "age": 27, "email": "natalia@example.com", "city": "Lviv", "country": "Ukraine"}  
+{"id": 8, "name": "Sergey", "sex": "boy", "age": 35, "email": "sergey@example.com", "city": "Odessa", "country": "Ukraine"}  
+{"id": 9, "name": "Diana", "sex": "girl", "age": 29, "email": "diana@example.com", "city": "Kharkiv", "country": "Ukraine"}  
