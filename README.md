@@ -5,8 +5,9 @@ Stream-table join (stream enrichment) and tumpling window to get something like 
 1. Reading stream data from kafka
 2. Parsing stream data: log -> table
 3. Joining actions stream with user data
-4. Windowed Aggregation
-5. Output to console in "complete" output mode
+4. Splitting streams by boolean condition
+5. Windowed Aggregations
+6. Output to console in "complete" output mode
 
 ## Future Problem to Solve: Up-to-Date Users Table
 <b>Problem Statement:</b> The actions stream is real-time, but the users table is not. As a result, it is possible that after some time, we may encounter actions with `user_id` values that no longer exist in the local users table.
