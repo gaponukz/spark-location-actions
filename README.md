@@ -17,3 +17,5 @@ Stream-table join (stream enrichment) and tumpling window to get something like 
 <b> Good Solution:</b> Maintain a local copy of the user data for stream processing, enabling local queries without network round-trip latency. Instead of loading the table as a DataFrame in Spark, consider building a hash index that is updated by another stream, ensuring real-time consistency of the user data.
 
 <b> Problem I Faced:</b>  How to store an in-memory or local index efficiently? How can I simultaneously update it and read values quickly? The core question, however, is: <b>How do I use it from Spark?</b>
+
+<img width="819" alt="image" src="https://github.com/user-attachments/assets/b597f33d-66ff-4c7a-8afa-585c5e9993c6" />
